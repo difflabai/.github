@@ -1,6 +1,6 @@
 # Differential AI Lab
 
-We build open infrastructure for companies navigating the AI transition — from training and upskilling teams to deploying autonomous agents safely in production.
+We build open infrastructure for companies navigating the AI transition — from training and upskilling teams to deploying autonomous agents safely in production. Get in touch at [https://difflab.ai](https://difflab.ai)
 
 Our work spans four areas: **AI Training**, **AI Transformation**, **Boundary Enforcement**, and **AI Native Software Engineering**.
 
