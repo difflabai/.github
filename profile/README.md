@@ -40,6 +40,7 @@ AI systems that operate without proper safety boundaries create liability. We bu
 | Repository | Description |
 |---|---|
 | [**confidential-safety**](https://github.com/difflabai/confidential-safety) | Safety evaluation layer for confidential AI inference and agentic workloads. Runs inside a Trusted Execution Environment (TEE) to classify inputs/outputs against risk categories, gate requests, and emit cryptographically attested verdicts — without raw user data ever leaving the TEE. Two tiers: stateless per-request inference safety, and stateful per-session agent safety with trajectory analysis and escalation. |
+| [**prompt-bonk**](https://github.com/difflabai/prompt-bonk) | Fast, zero-dependency prompt injection scanner for Node.js. 498 regex patterns catch instruction hijacking, prompt extraction, data exfiltration, role hijacking, and obfuscation attacks in <1ms. First layer of defense before untrusted text reaches your LLM. |
 | [**tuneout**](https://github.com/difflabai/tuneout) | Boundary enforcement for human cognition. Provides LLM-based content filters that replace algorithmic feeds, reducing the attack surface for attention manipulation. Research-backed, open-source, zero tracking. |
 
 ---
